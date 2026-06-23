@@ -1,5 +1,9 @@
 # Municipal Civic Engagement & Legislative Audit System
 
+<p align="center">
+  <img src="assets/logo.png" alt="CivicVoice Summarizer Logo" width="560" height="280" />
+</p>
+
 An AI-driven agentic pipeline designed to monitor local government proceedings by crawling municipal agenda portals, downloading meeting media, transcribing and diarizing speakers, aligning dialogue timelines with official agendas, cross-referencing historical legislation, and auditing summaries for non-partisan neutrality and alignment accuracy.
 
 ---
